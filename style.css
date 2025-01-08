@@ -1,0 +1,116 @@
+#centralwidget{
+    background-color: #ffffff;
+}
+
+#menu_btn{
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#menu_btn:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#icon_menu{
+    background-color: #f5f1ed;
+    width: 50px;
+    border-radius: 5px;
+}
+
+#mainDashboard_1, #orderOverview_1, #recommendation_1, #history_1, #label{
+    height: 50px;
+    border: none
+}
+
+#mainDashboard_1:hover, #orderOverview_1:hover, #recommendation_1:hover, #history_1:hover{
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#label {
+    padding: 5px;
+}
+
+#full_menu {
+    background-color: #f5f1ed;
+    border-radius: 5px;
+}
+
+#mainDashboard_2, #orderOverview_2, #recommendation_2, #history_2{
+    border: none;
+    border-radius: 3px;
+    text-align: left;
+    padding: 8px 0 8px 15px;
+    color: #788596;
+}
+
+#mainDashboard_2:hover, #orderOverview_2:hover, #recommendation_2:hover, #history_2:hover{
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#mainDashboard_2:checked, #orderOverview_2:checked, #recommendation_2:checked, #history_2:checked{
+    color: #00DCFD;
+}
+
+#label_2 {
+    padding: 5px;
+    color: #fff;
+}
+
+#label_3 {
+    padding-right: 10px;
+    color: #003781;
+    background-color: #f5f1ed
+}
+
+
+#menu_widget {
+    padding-right: 10px;
+    color: #fff;
+
+}
+
+#search_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#search_btn:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+#search_input {
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+}
+
+#search_input:focus {
+    background-color: #70B9FE
+}
+
+#profile_btn {
+    padding: 5px;
+    border: none;
+    width: 30px;
+    height: 30px;
+}
+
+#profile_btn:hover {
+    background-color: rgba(86, 101, 115, 0.5);
+}
+
+
+#widget {
+    border-radius: 5px;
+    background-color: #f5f1ed
+
+}
+
+#stackedWidget{
+    border-radius: 5px;
+    padding: 15px;
+}

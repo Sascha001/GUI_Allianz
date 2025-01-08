@@ -1,0 +1,17 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>Bilder/Menu.png</file>
+    <file>Bilder/Logo.png</file>
+    <file>Bilder/History.png</file>
+    <file>Bilder/History_blue.png</file>
+    <file>Bilder/Logo.png</file>
+    <file>Bilder/MainDashboard.png</file>
+    <file>Bilder/MainDashboard_blue.png</file>
+    <file>Bilder/OrderOverview.png</file>
+    <file>Bilder/OrderOverview_blue.png</file>
+    <file>Bilder/Recommendation.png</file>
+    <file>Bilder/Recommendation_blue.png</file>
+    <file>Bilder/Search.png</file>
+    <file>Bilder/User (2).png</file>
+  </qresource>
+</RCC>
